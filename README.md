@@ -1,7 +1,7 @@
-# Project Title
+# Horiseon 
 
-Horiseon - Social Solution Services
-
+ Social Solution Services
+ 
 ## Description
 
 A site built for offering services in search engine optimization, online reputation management, and social media marketing.
