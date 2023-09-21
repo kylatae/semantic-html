@@ -14,7 +14,8 @@ A site built for offering services in search engine optimization, online reputat
 
 ## Authors & Contributors 
 
-Horiseon Social Services Inc
+Horiseon Social Services Inc.
+
 Arthur Henningfield
 
 ## License
